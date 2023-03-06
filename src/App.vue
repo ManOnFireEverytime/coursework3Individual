@@ -12,7 +12,7 @@
         </div>
 
         <div class="form-group">
-          <div id="sort-bar">
+          <!-- <div id="sort-bar"> -->
             <select
               class="sort btn btn-default"
               name="sortBy"
